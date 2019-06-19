@@ -1,0 +1,9 @@
+following libraries used:
+
+#include <Wire.h>
+#include <SPI.h>
+#include <digitalWriteFast.h>
+#include <MI0283QT2.h>
+#include <PS2Keyboard.h>
+#include <GraphicsLib.h>
+#include <LiquidCrystal.h>
