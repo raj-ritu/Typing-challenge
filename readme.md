@@ -6,11 +6,12 @@ The game offers 4 modes:
 3. Advance Mode – Player has 10 seconds for each letter
 4. Ninja/Expert Mode – Player has 3 seconds for each letter
 
-
 Requirements:
-Arduino uno board
-LCD Display (MI0283QT2)
-Breadboard
-Resistor (220 ohm)
-PS2 Connector (DIN5)
-Connecting wires
+•	Arduino UNO board
+•	LCD Display (MI0283QT2)
+•	Breadboard
+•	Resistor (220 ohms)
+•	PS2 Connector (DIN5)
+•	Connecting wires
+
+
