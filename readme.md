@@ -15,7 +15,6 @@ Requirements:
 •	Arduino UNO board
 •	LCD Display (MI0283QT2)
 •	Breadboard
-•	Resistor (220 ohms)
 •	PS2 Connector (DIN5)
 •	Connecting wires
 
