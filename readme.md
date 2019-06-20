@@ -20,4 +20,4 @@ Requirements:
 •	Connecting wires
 
 
-![alt text](https://raw.githubusercontent.com/raj-ritu/Typing-challenge/master/TypingChallengeArduino-HomeScreen.jpeg)
+![alt text](https://raw.githubusercontent.com/raj-ritu/Typing-challenge/master/TypingChallengeArduino-HomeScreen.png)
