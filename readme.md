@@ -11,12 +11,16 @@ The game offers 4 modes:
 
 Requirements: 
 -------------
-• Arduino IDE
-•	Arduino UNO board
-•	LCD Display (MI0283QT2)
-•	Breadboard
-•	PS2 Connector (DIN5)
-•	Connecting wires
+- Arduino IDE
+- Arduino UNO board
+-	LCD Display (MI0283QT2)
+-	Breadboard
+-	PS2 Connector (DIN5)
+-	Connecting wires
+
+Schematics
+-----------
+![alt text](https://raw.githubusercontent.com/raj-ritu/Typing-challenge/master/TypingChallenge-Schematics.png)
 
 HomeScreen
 -----------
