@@ -11,12 +11,8 @@
  * Typing Challenge
  */ 
 #include <Wire.h>
-#include <SPI.h>
-#include <digitalWriteFast.h>
 #include <MI0283QT2.h>
 #include <PS2Keyboard.h>
-#include <GraphicsLib.h>
-#include <LiquidCrystal.h>
 
 PS2Keyboard keyboard;
 MI0283QT2 lcd;
@@ -153,6 +149,7 @@ void gamePlay(){
 
 void play() {
   lcd.fillScreen(RGB(0,0,0));
+  points = 0;
   if(keyin == '1'){
     time_limit = 30;
     lcd.drawText(20, 50, "Welcome TO: ", RGB(255,255,0), RGB(0,0,0), 2);
